@@ -29,7 +29,7 @@ You are injured.
 
 [Options]
 Follow trail => forest/trail.txt
-Wander somewhere else => forst/wander_deeper.txt
+Wander somewhere else => forest/wander_deeper.txt
 ```
 Which will render like the following:
 
