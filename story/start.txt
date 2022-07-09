@@ -1,0 +1,6 @@
+[Text]
+You awake on a beach. The glaring sun rains down on you, and your eyes have trouble focussing.
+
+[Options]
+Stand up => beach/standup.txt
+Continue laying down => beach/stay_down.txt

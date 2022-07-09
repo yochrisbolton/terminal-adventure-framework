@@ -1,0 +1,8 @@
+[Text]
+^yYou continue laying down in the sand
+
+^cThe sun beats down on your raw exposed skin.
+
+[Options]
+Stand up => beach/standup.txt
+Continue laying down => beach/stay_down.txt

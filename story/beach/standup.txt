@@ -1,0 +1,11 @@
+[Text]
+^yYou stand up.
+
+^cIn the water you see pieces of wood washing against the shore. Behind you is a line of trees.
+
+In the distance you see a mountain, and what appears to be a ^yflashing light
+
+[Options]
+Collect wood => beach/collect_wood.txt
+Head into the forest => forest/entry.txt
+Drink salt water => beach/drink_ocean_water.txt

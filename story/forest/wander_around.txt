@@ -1,0 +1,12 @@
+[Text]
+^yYou wander around.
+
+^cThe brush begins to get thicker, and you injur yourself on hidden rocks on the forst floor.
+
+You stumble onto what appears to be a path through the forest.
+
+^yYou are injured
+
+[Options]
+Follow path => forest/path.txt
+Kepp wandering => forest/wander_deeper.txt

@@ -1,0 +1,8 @@
+[Text]
+The forest is cool, and offers protection from the sun. 
+
+^yYou are thirsty, ^cyou should find some water.
+
+[Options]
+Wander around => forest/wander_around.txt
+Climb tree => forest/climb_tree.txt

@@ -1,0 +1,10 @@
+[Text]
+^yYou collect some wood from the water. ^cYou don' know what to do with it.
+
+^cBehind you is a line of trees.
+
+In the distance you see a mountain, and what appears to be a ^yflashing light
+
+[Options]
+Head into the forest => forest/entry.txt
+Drink salt water => beach/drink_ocean_water.txt

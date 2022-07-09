@@ -1,0 +1,9 @@
+[Text]
+^yYou drink some ocean water. ^cIts bitter and makes your throat and stomache hurt.
+
+^cBehind you is a line of trees.
+
+In the distance you see a mountain, and what appears to be a ^yflashing light
+
+[Options]
+Head into the forest => forest/entry.txt

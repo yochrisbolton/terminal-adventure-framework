@@ -1,0 +1,10 @@
+[Text]
+^yYou try and climb a tree
+
+^cThe branches snap under your weight, and you fall to the ground. Before you fall you see what looks like a trail ahead of you.
+
+You are injured.
+
+[Options]
+Follow trail => forest/trail.txt
+Wander somewhere else => forst/wander_deeper.txt

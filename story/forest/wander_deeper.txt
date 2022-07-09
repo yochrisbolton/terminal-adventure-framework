@@ -1,0 +1,8 @@
+[Text]
+^yYou wander deeper into the forest.
+
+^cYou find a cave. There are markings on the side, but you don't understand what they mean.
+
+[Options]
+Head back to path => forest/follow_path.txt
+Enter the cave => cave/entry.txt
